@@ -1,0 +1,30 @@
+﻿body {
+}
+
+.form-control{
+    width: 20%;
+}
+
+.jumbotron{
+    background-color: darkgreen;
+    color: white;
+}
+
+.btn{
+    background-color: darkgreen;
+    border-color: white;
+    color: white;
+}
+
+.btn:hover{
+    background-color: darkgreen;
+    color: white;
+    border-color: darkgreen;
+}
+
+#invertHover:hover{
+    transition: .5s;
+    background-color: white;
+    color: darkgreen;
+    border-color: white;
+}
